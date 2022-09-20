@@ -52,7 +52,7 @@ These questions are:
 
 * Now that we know the when and the where, the next question to answer is who is using the bikeshare program the most? The data would be broken down by gender utilizing the number of rides we calculated.
 
-![By Gender Usage](Resources/By_Gender_Usage.png)
+![By Gender Usage](Resources/By_Gender_Usage.png) <br>
 <sub>Usage by Gender</sub>
 
 * Astonishingly the majority of people who use the bikeshare program are male. Since it is such an overwhelming amount, it can be assumed that this likely will be the same for Des Moines.

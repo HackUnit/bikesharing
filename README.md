@@ -24,7 +24,6 @@ These questions are:
 
 - A breakdown between a one-time customer and a subscriber to the program drilled down to gender and weekday.
 <br>
-<br>
 
 #### What is the number of rides and peak hours for August 2019?
 
@@ -66,12 +65,12 @@ These questions are:
 ![Time Bikes Used](Resources/By_Hour_Bike_Usage.png)
 <sub>Bike Usage per Hour by 10 Minute Intervals</sub>
 
-* The data shows that the massive majority of users are only going to be using the bike for a brief while, with the most common being 5 minutes for roughly 147,000 users. This drastically falls by the minute down to triple digits after crossing the hour threshold, and then to double digits into the third hour. The data does carry on for a minority of people past the third hour, but the bulk of the data showcases in the zero hour.
+* The data shows that the massive majority of users are only going to be using the bike for a small window of time, with the most common being 5 minutes for roughly 147,000 users. This drastically falls by the minute down to triple digits after crossing the hour threshold, and then to double digits into the third hour. The data does carry on for a minority of people past the third hour, but the bulk of the data showcases in the zero hour.
 <br>
 
 #### How many trips are the bikes being utilized by gender?
 
-* Taking the previous calculated data, we can break it further down by gender again. As would be expected there are more male users, but the detail that can be assumed is that since the work industry is still predominantly male, the data shows a majority of male commuters utilizing the bikes for brief periods. Of course, this can be applied to the same similar spike for females, which also would likely be work commuters and locals commuting just as their male counterparts.
+* Taking the previous calculated data, we can break it further down by gender again. As would be expected based off previous data there are more male users, but a detail that could be assumed is that since the work industry is still predominantly male, the data shows a majority of male commuters utilizing the bikes for brief periods. Of course, this can be applied to the same similar spike for females, which also would likely be work commuters and locals commuting just as their male counterparts but in lesser numbers.
 
 ![Time Bikes Used by Gender](Resources/By_Hour_Gender_Usage.png)
 <sub>Bike Usage by Gender</sub>
@@ -94,7 +93,7 @@ These questions are:
 ![Weekday Usage Hourly by Gender](Resources/Gender_Usage_Hourly.png)
 <sub>Weekday Usage Hourly by Gender</sub>
 
-* This data echoes all of our previous visualizations and solidify several key points. The morning and afternoon commute hours make up the time that a bulk of users are using the bikeshare program. There is a heavier slant towards male users, but the female users follow a similar pattern, albeit in lesser number. Interestingly, the "Unknown" value, which is a catch-all for user trips that a gender was not defined by the user, is almost non-existent for the weekday, but can be seen that these users are active on the weekend. This could infer that the “Unknown” value is more than likely tourists, and not the consistent commuters reflected between the male and female values.
+* This data echoes all of our previous visualizations and solidify several key points. The morning and afternoon commute hours make up the time that a bulk of users are using the bikeshare program. There is a heavier slant towards male users, but the female users follow a similar pattern, albeit in lesser number. Interestingly, the "Unknown" value (which is a catch-all of user trips where a gender was not defined by the user) is almost non-existent for the weekday, but can be seen that these unknown users are more active on the weekend. This could infer that the “Unknown” value is more than likely tourists, and not the consistent commuters reflected between the male and female values.
 <br>
 
 * To finalize everything, we can showcase the majority of the previous data into a visualization that further drills down to user type: Customer or Subscriber.

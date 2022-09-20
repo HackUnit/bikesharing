@@ -1,0 +1,5 @@
+Ignore zip and csv files
+
+*.zip
+*.csv
+.ipynb_checkpoints

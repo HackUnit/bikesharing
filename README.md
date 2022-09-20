@@ -4,7 +4,7 @@ Link to [Tableau Public Dashboard](https://public.tableau.com/views/NYCBikeshare
 
 ## Overview of the analysis:
 
-The analysis was created to see how viable a bikeshare business would be for Des Moines, Iowa. Data from a bikeshare company called "Citi Bike" in New York City was used to create the proposal. To get potential investors to buy into funding this bikeshare program different metrics were visually graphed. This visualized data was used to build a case for how a bikeshare might work in Des Moines, and to answer any questions the investors might have.
+This project was created to see how viable a bikeshare business would be for Des Moines, Iowa. Data from a bikeshare company called "Citi Bike" in New York City was used to create the proposal. To get potential investors to buy into funding this bikeshare program different metrics were visually graphed. This visualized data was used to build a case for how a bikeshare might work in Des Moines, and to answer any questions the investors might have.
 
 ## Results:
 
@@ -23,10 +23,13 @@ These questions are:
 - Overall, how many trips were being taken and then drilling this analysis further down by gender.
 
 - A breakdown between a one-time customer and a subscriber to the program drilled down to gender and weekday.
+<br>
+<br>
 
 #### What is the number of rides and peak hours for August 2019?
 
 * The number of rides for August 2019 tallied up to an astonishing 2,344,224 rides in that month. While the numbers may not be that high for Des Moines, the point established is that August was a busy month.
+
 ![August Peak Hours](Resources/August_Peak_Hours.png)
 <sub>August Peak Hours</sub>
 
@@ -36,6 +39,7 @@ These questions are:
 #### Where are users more likely to use the bike sharing program?
 
 * Knowing the when, we move onto the where. Utilizing our dataset, two maps with colored markers were created to see the start and end locations and the popularity of each.
+
 ![Top Starting Locations](Resources/Top_Start_Loc.png)
 <sub>Top Starting Locations</sub>
 
@@ -48,6 +52,7 @@ These questions are:
 #### Who are using the bikes the most by gender?
 
 * Now that we know the when and the where, the next question to answer is who is using the bikeshare program the most? The data would be broken down by gender utilizing the number of rides we calculated.
+
 ![By Gender Usage](Resources/By_Gender_Usage.png)
 <sub>Usage by Gender</sub>
 
@@ -98,6 +103,8 @@ These questions are:
 <sub>User Trips by Gender, Weekday and User Type</sub>
 
 * There are a number of parallels to our previous data, but a new finding is that the majority of the male users are subscribers and not your general customer. This solidifies the assumption that the majority of the userbase are local males who are likely to identify as workers and businessmen.
+<br>
+<br>
 
 ## Summary:
 

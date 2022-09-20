@@ -1,4 +1,4 @@
-Ignore zip and csv files
+Ignore zip, csv files and the Jupyter Notebook checkpoints
 
 *.zip
 *.csv
